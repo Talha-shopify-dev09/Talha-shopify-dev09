@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Syed+Muhammad+Talha;Shopify+Custom+Developer+%7C+Shopify+Manager;Shopify+Liquid%2C+Shopify+CLI%2C+Admin+APIs+(GraphQL+%26+REST)+Expert;Subscriptions%2C+Access+Scopes+%26+Third-Party+Integrations;Scalable+%26+Performance-Optimized+eCommerce+Solutions;Speed+Programming+Competitions+(Java+%26+C%2B%2B)+Winner;Clean+Code%2C+Business+Logic+%26+UI%2FUX"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=ff7800&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Syed+Muhammad+Talha;Shopify+Custom+Developer+%7C+Shopify+Manager;Shopify+Liquid%2C+Shopify+CLI%2C+Admin+APIs+(GraphQL+%26+REST)+Expert;Subscriptions%2C+Access+Scopes+%26+Third-Party+Integrations;Scalable+%26+Performance-Optimized+eCommerce+Solutions;Speed+Programming+Competitions+(Java+%26+C%2B%2B)+Winner;Clean+Code%2C+Business+Logic+%26+UI%2FUX"
     alt="Typing animation"
   />
 </p>
